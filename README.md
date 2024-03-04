@@ -2,7 +2,7 @@
 SENTIMENT ANALYSIS
 With Python Using TwitterAPI
 
-About our Project
+# About our Project
 Sentiment analysis is the use of Natural Language Processing, text extraction to study effective state of subjective information, in this case tweets from TwitterAPI which provides endpoints for accessing and pulling tweets from twitter.
 We also had an option of using Stocktwits, a platform containing information for traders and communications on trends. 
 Our group focused mainly with TwitterAPI.
